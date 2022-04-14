@@ -1,2 +1,3 @@
 # wincertstore
-Windows certificate store
+
+Programmatic access to the Windows Certificate Store.
